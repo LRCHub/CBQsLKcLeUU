@@ -1,0 +1,53 @@
+# The All-American Rejects – Dirty Little Secret
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.68] Let me know that I've done wrong
+[00:19.66] When I've known this all along
+[00:23.39] I go around a time or two
+[00:26.62] Just to waste my time with you
+[00:41.62] 
+[00:29.69] Tell me all that you've thrown away
+[00:33.34] Find out games you don't wanna play
+[00:36.48] You are the only one that needs to know
+[00:55.98] 
+[00:42.45] I'll keep you my dirty little secret (dirty little secret)
+[00:47.84] Don't tell anyone or you'll be just another regret
+[00:52.78] (Just another regret, hope that you can keep it)
+[00:55.77] My dirty little secret, who has to know?
+[01:15.77] 
+[01:00.05] When we live such fragile lives
+[01:03.37] It's the best way we survive
+[01:06.36] I go around a time or two
+[01:10.05] Just to waste my time with you
+[01:25.05] 
+[01:13.17] Tell me all that you've thrown away
+[01:16.82] Find out games you don't wanna play
+[01:19.80] You are the only one that needs to know
+[01:39.30] 
+[01:25.93] I'll keep you my dirty little secret (dirty little secret)
+[01:31.45] Don't tell anyone or you'll be just another regret
+[01:35.85] (Just another regret, hope that you can keep it)
+[01:39.29] My dirty little secret, who has to know?
+[01:59.29] 
+[01:42.83] The way she feels inside (inside)
+[01:46.12] Those thoughts I can't deny (deny)
+[01:49.44] These sleeping dogs won't lie (won't lie)
+[01:53.10] And all I've tried to hide
+[01:55.88] It's eating me apart
+[01:59.48] Trace this line back
+[02:09.48] 
+[02:16.12] I'll keep you my dirty little secret
+[02:19.54] (Dirty little secret)
+[02:21.42] Don't tell anyone or you'll be just another regret
+[02:25.91] (Just another regret)
+[02:36.41] 
+[02:29.20] I'll keep you my dirty little secret (dirty little secret)
+[02:34.71] Don't tell anyone or you'll be just another regret
+[02:39.53] (Just another regret, hope that you can keep it)
+[02:42.27] My dirty little secret, dirty little secret, dirty little secret
+[03:14.27] 
+[02:48.15] Who has to know?
+[02:51.53] Who has to know?
+```
