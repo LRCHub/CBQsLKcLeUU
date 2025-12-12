@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dirty Little Secret",
+  "base_artist": "The All-American Rejects",
+  "createdAt": "2025-12-12T04:49:47.424134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/01_Dirty_Little_Secret_Bon_Jovi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/02_Dirty_Little_Secret_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/03_Dirty_Little_Secret_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "Sarah McLachlan",
+      "has_synced": true,
+      "path": "select/04_Dirty_Little_Secret_Sarah_McLachlan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "The All‐American Rejects",
+      "has_synced": true,
+      "path": "select/05_Dirty_Little_Secret_The_All‐American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "has_synced": true,
+      "path": "select/06_Dirty_Little_Secret_The_All-American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Little Secret (live From the Wiltern)",
+      "artist": "The All‐American Rejects",
+      "has_synced": true,
+      "path": "select/07_Dirty_Little_Secret_(live_From_the_Wiltern)_The_All‐American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dirty Little Secret (Live From The Wiltern)",
+      "artist": "The All-American Rejects",
+      "has_synced": true,
+      "path": "select/08_Dirty_Little_Secret_(Live_From_The_Wiltern)_The_All-American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Got a Dirty Little Secret",
+      "artist": "Blues Saraceno",
+      "has_synced": false,
+      "path": "select/09_You_Got_a_Dirty_Little_Secret_Blues_Saraceno.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "All American Rejects",
+      "has_synced": true,
+      "path": "select/10_Dirty_Little_Secret_All_American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "Pillar",
+      "has_synced": true,
+      "path": "select/11_Dirty_Little_Secret_Pillar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Little Secret (Thievery Corporation Mix)",
+      "artist": "Sarah McLachlan",
+      "has_synced": true,
+      "path": "select/12_Dirty_Little_Secret_(Thievery_Corporation_Mix)_Sarah_McLachlan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "has_synced": true,
+      "path": "select/13_Dirty_Little_Secret_The_All-American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "has_synced": true,
+      "path": "select/14_Dirty_Little_Secret_The_All-American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Little Secret",
+      "artist": "The All‐American Rejects",
+      "has_synced": true,
+      "path": "select/15_Dirty_Little_Secret_The_All‐American_Rejects.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Little_Secret_The_All-American_Rejects.txt"
+    }
+  ]
+}
